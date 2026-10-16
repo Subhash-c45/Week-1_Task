@@ -28,8 +28,4 @@ This project demonstrates a repeatable data-cleaning workflow using Python, Pand
 ## Before/after shape comparison
 Run the notebook to see the exact row/column counts and validation output. The supplied sample has 21 raw rows and 9 columns, including one exact duplicate. After removing the duplicate, the cleaned sample has 20 rows and 9 columns. Imputation and formatting do not change the row or column count.
 
-## Data privacy
-The included records are synthetic sample data. Do not publish real customer information or confidential company data in a public GitHub repository without explicit authorization.
 
-## Technologies
-Python · Pandas · NumPy · Jupyter Notebook
